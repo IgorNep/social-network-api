@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://igor123:igor123@cluster0.xtdn9.mongodb.net/socialnetwork?retryWrites=true&w=majority",
+    "jwtSecret":"123456"
+}
